@@ -5,7 +5,8 @@ These Excel example of a simple Statistical Catch at Age Analysis is designed to
 Sheet 'LH'
 - incorporating life history/population parameters from other studies
 - building vectors of age, length, weight, fecundity, survivorship, and vulnerability at age
-- 
+- Check out https://zsiders.shinyapps.io/Welcome_Module/ Lab 5 on Yield-per-recruit if you need a refresher on these parameters.
+
 Sheet 'Data'
 - incoroporating the catch at age data
 - visualizing the catch at age data
